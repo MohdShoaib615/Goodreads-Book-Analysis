@@ -1,5 +1,5 @@
 # Goodreads-Book-Analysis
-Analysis of Goodreads Booka Dataset.
+Analysis of Goodreads Books Dataset.
 
 
 In this Repository, I have done a deep analysis of Goodreads Book Dataset. 
